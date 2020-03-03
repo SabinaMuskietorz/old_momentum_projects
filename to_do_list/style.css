@@ -17,7 +17,7 @@ font-size: 1.3rem;
 .hero {
     position: absolute;
     min-height: 100vh;
-    min-width: 100vh;
+    min-width: 100vw;
     top: 0;
     bottom: 0;
     background-color: rgba(31,34,118,0.5);
